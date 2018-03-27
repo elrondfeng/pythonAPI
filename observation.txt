@@ -1,0 +1,3 @@
+1. at this time, as latitude goes high, the max temperature goes low. latitude 0 has the highest temperature
+2. humidity has nothing to do with latitude 
+3. cloudiness has nothing to do with latitude 
